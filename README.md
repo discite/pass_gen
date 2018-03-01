@@ -4,3 +4,4 @@ Material that i used to build this generatorm, also, im looking to build this wi
 https://isocpp.org/tour
 https://isocpp.org/images/uploads/2-Tour-Basics.pdf
 http://www.cplusplus.com/reference/cstdlib/rand/
+http://www.cplusplus.com/doc/tutorial/dynamic/
